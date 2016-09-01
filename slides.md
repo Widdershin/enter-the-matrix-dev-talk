@@ -6,7 +6,7 @@
 -> # What are we going to talk about?
 ===========
 
-  - IDEs vs Text Editors
+  - IDEs vs Text Editors.
   - Why live in the terminal?
   - My development setup, specifically:
     - vim
@@ -68,6 +68,8 @@
  * Tab completion everywhere.
  * Plugins!!!
  * Excellent for annoying Roger.
+
+-> This slide can be replaced with the terminal of your choice.
 
 ------------------------------------
 
